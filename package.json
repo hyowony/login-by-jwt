@@ -1,0 +1,22 @@
+{
+  "name": "login-by-jwt",
+  "version": "1.0.0",
+  "description": "스파르타 정예반 실습-jwt",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hyowony/login-by-jwt.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hyowony/login-by-jwt/issues"
+  },
+  "homepage": "https://github.com/hyowony/login-by-jwt#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
